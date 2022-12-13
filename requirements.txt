@@ -1,0 +1,11 @@
+emoji==1.7.0
+hikari==2.0.0.dev109
+hikari_lightbulb==2.2.3
+pymongo==4.1.1
+dnspython==2.2.1
+uvloop==0.16.0
+countryinfo==0.1.2
+pycountry==22.3.5
+requests==2.27.1
+deep-translator==1.8.3
+langid==1.1.6
